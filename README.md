@@ -14,9 +14,9 @@
 
 | Platform | Rating | Profile |
 |----------|--------|---------|
-|![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)]| 300+ Problems | [irresolute15](https://leetcode.com/u/irresolute15/) |
-| [CodeChef-2⭐](https://img.shields.io/badge/CodeChef-2⭐-orange) | 1400+ | [irresolute_15](https://www.codechef.com/users/irresolute_15) |
-| Codeforces | Newbie | [sarthakamit.singh06](https://codeforces.com/profile/sarthakamit.singh06) |
+|![LeetCode](https://img.shields.io/badge/LeetCode-Profile-green?style=for-the-badge&logo=leetcode)| 300+ Problems | [irresolute15](https://leetcode.com/u/irresolute15/) |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-2⭐-brown?style=for-the-badge&logo=codechef) | 1400+ | [irresolute_15](https://www.codechef.com/users/irresolute_15) |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-Newbie-blue?style=for-the-badge&logo=codeforces) | Newbie | [sarthakamit.singh06](https://codeforces.com/profile/sarthakamit.singh06) |
 
 ---
 
