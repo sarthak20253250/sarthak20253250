@@ -14,9 +14,9 @@
 
 | Platform | Rating | Profile |
 |----------|--------|---------|
-| LeetCode | 300+ Problems | [Profile](https://leetcode.com/u/irresolute15/) |
-| CodeChef | 2⭐ | [Profile](https://www.codechef.com/users/irresolute_15) |
-| Codeforces | Newbie | [Handle](https://codeforces.com/profile/sarthakamit.06) |
+| LeetCode | 300+ Problems | [irresolute15](https://leetcode.com/u/irresolute15/) |
+| https://img.shields.io/badge/CodeChef-2⭐%25-orange | 1400+ | [irresolute_15](https://www.codechef.com/users/irresolute_15) |
+| Codeforces | Newbie | [sarthakamit.singh06](https://codeforces.com/profile/sarthakamit.singh06) |
 
 ---
 
