@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Sarthak Singh
 
 <!--
 **sarthak20253250/sarthak20253250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
